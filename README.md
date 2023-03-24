@@ -1,5 +1,15 @@
 # course-ds-base
 
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
+
 ## Preparation
 
 ### 1. Fork / Clone this repository
